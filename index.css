@@ -1,0 +1,22 @@
+h1 {
+    color:aqua;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    background-color: pink;
+    }
+
+#contact-info {
+                color:blue;
+                }
+
+h2 {
+    color:aqua;             
+}
+/*I dont understand why my styles are not updating in the browser..
+I added a normalize.css file before I created an index.css file. 
+I tought it might still be overruling the index.css file and therefore not letting my changes trough..
+But that didnt mae any sense thinking of priority rules..
+I deleted it anyways.. but nothing happened.
+What am I doing wrong, appart from being way too stressed ;D*/ 
